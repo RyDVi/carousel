@@ -1,0 +1,11 @@
+{
+  "name": "@rydvi_emotion/carousel",
+  "version": "1.0.0",
+  "description": "Carousel component with emotion\u001b[1;5D\u001b[1;5C",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RyDVi",
+  "license": "ISC"
+}
